@@ -173,3 +173,5 @@ flagged/
 # Docs
 .cache
 mkdocs-material-insiders
+extras/exercises/going_modular/models/05_going_modular_cell_mode_tinyvgg_model.pth
+extras/exercises/going_modular/models/05_going_modular_script_mode_tinyvgg_model.pth
